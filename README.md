@@ -171,8 +171,9 @@ You can see a fully commented version of `ContentView.swift` in:
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/age-gender-expression-edge-ios.git
-   cd age-gender-expression-edge-ios/ios/AgeGenderExpressionApp
+   git clone https://github.com/mosesholl/GAE_Edge_IOS.git
+   cd GAE_Edge_IOS/ios/AgeGenderExpressionApp
+
    ```
 
 2. **Open the Xcode project**
